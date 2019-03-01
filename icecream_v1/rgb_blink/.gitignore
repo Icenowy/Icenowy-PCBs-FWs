@@ -1,0 +1,4 @@
+*.json
+*.asc
+*.bin
+*.bin_padded
